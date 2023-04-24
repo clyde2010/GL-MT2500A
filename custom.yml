@@ -13,7 +13,6 @@ packages:
   - luci-app-mwan3
   - luci-app-wireguard
   - wireguard
-  - luci-app-eqos
   - wireguard-tools
 
 
