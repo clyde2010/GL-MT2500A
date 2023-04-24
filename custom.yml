@@ -8,7 +8,13 @@ packages:
   - luci-app-ssr-plus
   - default-settings
   - dnsmasq-full
-
+  - luci-app-uhttpd
+  - luci-app-commands
+  - luci-app-mwan3
+  - luci-app-wireguard
+  - wireguard
+  - luci-app-eqos
+  - wireguard-tools
 
 
 diffconfig: |
